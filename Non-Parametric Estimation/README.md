@@ -7,14 +7,14 @@
 ## Running
 
 ``` python
-$ cd ./Code
+cd ./Code
 # generate training and testing sample
-$ python gen_data.py
+python gen_data.py
 # parzen window estimation 
-$ python parzen_window.py
+python parzen_window.py
 # k-nearest estimation
-$ python kn_nearest.py
+python kn_nearest.py
 # apply estimated prob to classify
-$ python classifier.py
+python classifier.py
 ```
 

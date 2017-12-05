@@ -13,7 +13,7 @@ This repo consists of some machine learning algorithm implementation written usi
   - Batch Training
   - Back-propagation
 
-# TODO 
+## TODO 
 
 Other traditional classic machine learning algorithms will be also included further
 
