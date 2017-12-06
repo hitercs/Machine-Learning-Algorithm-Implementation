@@ -7,7 +7,6 @@
 ## Running
 
 ``` python
-cd ./Code
 # generate training and testing sample
 python gen_data.py
 # parzen window estimation 
