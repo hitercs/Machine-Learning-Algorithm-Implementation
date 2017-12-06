@@ -7,7 +7,7 @@
 ## Running
 
 ``` python
-$ cd ./Code
+cd ./Code
 # Generate training and test data
 python gen_data.py
 # training
