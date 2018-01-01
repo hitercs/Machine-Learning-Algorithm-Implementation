@@ -12,6 +12,8 @@ This repo consists of some machine learning algorithm implementation written usi
 - Multi-layer Perceptron
   - Batch Training
   - Back-propagation
+- Apriori Algorithm
+- FP Growth Algorithm
 
 ## TODO 
 
